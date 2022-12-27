@@ -1,0 +1,113 @@
+
+
+
+Short Answer
+
+
+1.       what is Data?
+    data is information that has been translated into a form that is efficient for movement or processing.its the raw facts.
+
+
+
+2.       what is Information?
+ Information is knowledge communicated or received concerning a particular fact or circumstance.
+ Information is expressed either as the content of a message or through direct or indirect observation.
+
+
+3.      what is Database(DB)?
+A database is information that is set up for easy access, management and updating.
+a database is an organized collection of data stored and accessed electronically.
+
+ 
+4.      What is the Relation Database Management System(RDBMS)?
+
+A relational database management system (RDBMS) is a collection of programs and
+capabilities that enable IT teams and 
+others to create, update, administer and otherwise interact with a relational database.
+
+5.      Define the importance of Relation Database Management System(RDBMS)?
+
+A relational database's main benefit is the ability to connect data from different tables to create useful information.
+
+6.  As we all know that there are Two types of Database. Relational Database(SQL) AND 
+Non-Relational DB(NO sql). what is the difference between them.
+
+
+SQL databases are relational, NoSQL databases are non-relational.
+SQL databases use structured query language and have a predefined schema. 
+NoSQL databases have dynamic schemas for unstructured data.
+SQL databases are vertically scalable, while NoSQL databases are horizontally scalable.
+SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores.
+SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON
+
+
+
+7. 	List examples of Relation Database Management System(RDBMS)?
+
+Some examples of specific systems that use RDBMS include IBM, Oracle, MySQL, Microsoft SQLServer and PostgreSQL.
+
+
+8.       List examples of Non-Reletional DB(NSQL)
+
+          NoSQL or non-relational databases examples: MongoDB, Apache Cassandra, Redis, Couchbase and Apache HBase.
+
+9.       Define and Describe is Structured Query Language(SQL)?
+
+      Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases and 
+perform various operations on the data in them.
+
+10.       List and Describe each of the different subsets of SQL(Mean DDL, DML, DCL, TCL)?
+
+              DDL- data definition language
+
+                 E.g. Create, alter, drop
+             
+             
+             DML- data manipulation language
+
+                E.g. Insert, update, delete, select
+
+              DCL- data control language
+
+                E.g. Grant, revoke
+
+              TCL- transaction control language
+
+               E.g. Commit, Rollback, Begin transaction
+
+
+
+
+11.      what is table in Database(DB)?
+
+      Tables are database objects that contain all the data in a database
+      A table is an object inside a database.
+
+12.     what is column and Row(tuples) in table?
+      A row can be defined as an order in which objects are placed alongside or horizontally. 
+      A column can be defined as a vertical division of objects on the basis of category.
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \
